@@ -50,3 +50,12 @@
 .link:hover {
   color: var(--cor-0);
 }
+
+.botao.secundario {
+  background: var(--cor-10);
+  color: var(--cor-2);
+}
+
+.botao.secundario:hover {
+  background: var(--cor-9);
+}
