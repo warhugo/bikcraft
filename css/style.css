@@ -4,6 +4,7 @@
 @import "./utilidades/tipografia.css";
 @import "./tecnologia/tecnologia.css";
 @import "./parceiros/parceiros.css";
+@import "./home/depoimento.css";
 
 /* Utilidades */
 @import "./utilidades/componentes.css";
