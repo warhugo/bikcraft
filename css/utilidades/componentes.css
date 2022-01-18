@@ -10,6 +10,7 @@
   line-height: 1.33;
   font-family: "Poppins";
   font-weight: 600;
+  max-width: max-content;
 }
 
 .botao:hover {
